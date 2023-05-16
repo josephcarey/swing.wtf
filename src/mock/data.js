@@ -76,7 +76,7 @@ export const projectsData = [
 export const contactData = {
   cta: "What are you waiting for? Swing is awesome and it's totally free to get started (at least in Minnesota)!",
   btn: 'I wanna be awesome!',
-  url: 'https://www.facebook.com/events/576352127314978/576352137314977',
+  url: 'https://www.facebook.com/events/3049721778666511/3049721781999844',
 };
 
 // FOOTER DATA
